@@ -284,6 +284,24 @@ footer{
         width: 80vw;
         height: 50vh;
     }   
+
+
+
+    /* novedades y accesorios */
+    .carrusel{
+        display: flex;
+        flex-direction: column;
+    }
+    .carrusel-novedades{
+        width: 80vw;
+        height: 100vh;
+    }
+
+    .carrusel-accesorios{
+        width: 80vw;
+        height: 100vh;
+    }
+
 }
 
 @media screen and (min-width: 768px), (max-width: 1023px){
